@@ -1,2 +1,2 @@
 # base
-Base configurations for different languages I use.
+Base configurations for different projects.
